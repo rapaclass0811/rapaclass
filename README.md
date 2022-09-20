@@ -1,2 +1,2 @@
 # rapaclass
-hello! 
+This is Byeonghun CHoi
